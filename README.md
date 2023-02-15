@@ -2,7 +2,7 @@
 
  In this project we used data from a food ordering and delivery application to analyze customer satisfaction ratings and make food recommendations 
  ## Research Questions
-By analyzing the dataset we are going to find insight about:
+By analyzing the dataset we expect to find insights about:
 1. What are the top 10 highly rated Restaurants  (restaurant vs rating)
 2. How does the price paid by the customer affect the rating they gave?(cost of order vs rating)
 3. How does food preparation/delivery time affect customer ratings?(total order time vs rating)
