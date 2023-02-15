@@ -11,15 +11,15 @@ The app allows the restaurants to receive a direct online order from a customer.
 We are using the dataset from Foodhub, a food delivery app centered in New York City. The dataset includes unique order IDs, customer order IDs, restaurant names, cuisine types, cost of the order, day of the week, customer rating, food preparation time, and food delivery time. The dataset can be found inside the dataset folder of this project or in [kaggle](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset)
 
 ## Overview
-* Imported the data
+1. Imported the data
 
-* Performed data cleaning
+2. Performed data cleaning
  - checked for missing values
  - checked for duplicated values
  - checked the values for each variable/column
  
-* Performed Analysis on the distribution of the data for each variable/column to identify if our dataset has any potential anomalies
+3. Performed Analysis on the distribution of the data for each variable/column to identify if our dataset has any potential anomalies
 
-* Conducted an analysis asnwering the research questions
+4. Conducted an analysis asnwering the research questions
 
-* Limitation/challenges we encountered.
+5. Limitation/challenges we encountered.
