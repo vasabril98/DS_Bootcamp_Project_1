@@ -14,11 +14,8 @@ We are using the dataset from Foodhub, a food delivery app centered in New York 
 * Imported the data
 
 * Performed data cleaning
-
  * checked for missing values
- 
  * checked for duplicated values
- 
  * checked the values for each variable/column
  
 * Performed Analysis on the distribution of the data for each variable/column to identify if our dataset has any potential anomalies
