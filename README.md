@@ -1,4 +1,4 @@
-# Analyzing Data From a Food Ordering and Delivery Application
+# Analyzing Data From Food Ordering and Delivery Application
 
  In this project we used data from a food ordering and delivery application to analyze customer satisfaction ratings and make food recommendations 
  ## Research Questions
