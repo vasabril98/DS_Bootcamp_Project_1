@@ -1,6 +1,13 @@
 # Analyzing Data From a Food Ordering and Delivery Application
 
  In this project we used data from a food ordering and delivery application to analyze customer satisfaction ratings and make food recommendations 
+ ## Research Questions
+By analyzing the dataset we are going to find insight about:
+1. What are the top 10 highly rated Restaurants  (restaurant vs rating)
+2. How does the price paid by the customer affect the rating they gave?(cost of order vs rating)
+3. How does food preparation/delivery time affect customer ratings?(total order time vs rating)
+4. Which cuisine types were given the highest/lowest ratings?(cuisine type vs rating) 
+
  
  ## The Dataset
  
@@ -10,7 +17,7 @@ The app allows the restaurants to receive a direct online order from a customer.
  
 We are using the dataset from Foodhub, a food delivery app centered in New York City. The dataset includes unique order IDs, customer order IDs, restaurant names, cuisine types, cost of the order, day of the week, customer rating, food preparation time, and food delivery time. The dataset can be found inside the dataset folder of this project or in [kaggle](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset)
 
-## Overview
+## Overview of Analysis 
 1. Imported the data
 
 2. Performed data cleaning
